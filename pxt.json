@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "stem_s": "github:tfabworks/pxt-stem-s#v0.8.2",
+        "stem_s": "github:tfabworks/pxt-stem-s#0.9.0",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.12",
         "pxt-tfabconnect-beta": "github:tfabworks/pxt-tfabconnect-beta#v1.1.2"
     },
